@@ -1,0 +1,65 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="291px" height="151px" viewBox="-0.5 -0.5 291 151" content="&lt;mxfile&gt;&lt;diagram id=&quot;gwb8VUKnk_sCcuHyMrjF&quot; name=&quot;Page-1&quot;&gt;1ZZNc5swEIZ/DTPuwTO2cJzmaOx89NBLc+hZRgtoKhAVi8H99ZXQYsCu00xn0kkuWHp2pX1XiF0H4TZvHw0vs69agArYQrRBuAsYu1mv7NOBowe3IYHUSOHRcgDP8hcQXBCtpYBq4ohaK5TlFMa6KCDGCePG6Gbqlmg1jVryFC7Ac8zVJf0uBWaefma3A38CmWZ95OX6zlty3jtTJlXGhW5GKLwPwq3RGv0ob7eg3Nn15+LXPVyxnoQZKPA1C5hfcOCqptwCtlZ2aVQ6dXiklNc/aycpyrlJZRGEG2tdlK19Wtgl5vgcdeltq5ENocU5VzKldbHVBmbY045S+u0i73sQ8eLHJo51bXMhm81kf+5vWXnOMuPk9xenj7S8HvSf0lWQ4Cjf873n1hBxxYsYvNdO13sb4QXdbyWj37/uoXTvACr8xvGauPrDHHTAnK+AUlcSZz6RT97/oO1V/88H7uU0EjNhePNe9KSAdBlnpEVM3vjeTP0vrkwF+GV0a2bihbxedXfeLtcL7emZ9j+ewN91s4lidgCD0raFjS9uu678RVTqdl5ppK1Xoroin0hbfMMo0QVSU1symj/wXCrXDp9AHcDt6j4uzJVzOsUeF3aq9U4DtCNEhf4RdA5ojtaFrH3Poaa7omkzdDB2Rywbd68bgpy6ZnraeWgsdkC9pZ8OPayzjf4IhPe/AQ==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="290" height="150" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 292px; height: 150px; padding-top: 0px; margin-left: 0px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 290px; height: 150px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: nowrap;">
+                                <p style="margin: 0px ; margin-top: 4px ; text-align: center">
+                                    <b>
+                                        BankAccount
+                                    </b>
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    - Balance: Double
+                                </p>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    -
+                                    <u>
+                                        interestRate: Double
+                                    </u>
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    + deposit(Double): void
+                                </p>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    + withdraw(Double): void
+                                </p>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    + getBalance(): double
+                                    <br/>
+                                    +
+                                    <u>
+                                        setInterestRate(double): void
+                                    </u>
+                                </p>
+                                <p style="margin: 0px ; margin-left: 4px">
+                                    +
+                                    <u>
+                                        getInterestRate(): double
+                                    </u>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="0" y="12" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    BankAccount...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
